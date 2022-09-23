@@ -20,3 +20,8 @@ Model Performance after including conytext into it
 ![Capture4](https://user-images.githubusercontent.com/99614234/191882125-083b9ad0-a31c-42a0-b91c-111306d3ecb0.PNG)
 
 
+**Knowledge Distillation Frame work for Noisy Data**
+
+ Teacher Network
+ 
+ ![Knowledge Distillation](https://user-images.githubusercontent.com/99614234/191882417-d7125213-1d8c-47f0-8efe-8aa732575a51.PNG)
