@@ -6,6 +6,8 @@ Damaged Hair Cell Count Detection |DBSCAN| Hough Transform(Open CV)|Resnet with 
 
 **Resnet Model Performance**
 
+![Capture2](https://user-images.githubusercontent.com/99614234/191882006-3a7b5ce3-044a-4941-8b30-b1444c98dba4.PNG)
+
 
 **Resnet Model with Context**
 Trained two Resnet 18 models parallelly. Concatenated the feature map of last convolution layer and passed it to a fully connected layer for cell prediction.
