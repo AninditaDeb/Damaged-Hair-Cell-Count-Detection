@@ -22,6 +22,7 @@ Model Performance after including conytext into it
 
 **Knowledge Distillation Frame work for Noisy Data**
 
- Teacher Network
+ Teacher and Student Network
  
- ![Knowledge Distillation](https://user-images.githubusercontent.com/99614234/191882417-d7125213-1d8c-47f0-8efe-8aa732575a51.PNG)
+ ![Knowledge Distillation](https://user-images.githubusercontent.com/99614234/191882417-d7125213-1d8c-47f0-8efe-8aa732575a51.PNG)![Student Network](https://user-images.githubusercontent.com/99614234/191882595-a9d31441-25b6-40d2-84f1-51a83d74ae05.PNG)
+
